@@ -1,7 +1,12 @@
 {
   "name": "@nikkiselev/pkg",
   "version": "1.0.0",
-  "description": "",
+  "description": "TypeScript starter template for creating a Node.js package",
+  "keywords": [
+    "typescript",
+    "node",
+    "template"
+  ],
   "main": "./dist/index.js",
   "module": "./esm/index.js",
   "types": "./dist/index.d.ts",
