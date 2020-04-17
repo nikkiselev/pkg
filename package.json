@@ -9,7 +9,7 @@
     "dist/**",
     "esm/**"
   ],
-  "author": "Nikolai Kiselev <nik@kiselev.dev>",
+  "author": "Nikolai Kiselev <nik@kiselev.dev> (https://github.com/nikkiselev)",
   "repository": "nikkiselev/pkg",
   "homepage": "https://github.com/nikkiselev/pkg",
   "license": "MIT",
