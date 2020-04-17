@@ -1,0 +1,10 @@
+node_modules
+dist
+esm
+*.log
+*.tgz
+.env
+.DS_Store
+.idea
+examples/**/package-json.lock
+package-lock.json
